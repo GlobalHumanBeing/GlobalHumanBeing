@@ -1,4 +1,6 @@
-pragma solidity ^0.8.2;
+/**
+ *Submitted for verification at BscScan.com on 2021-10-15
+*/
 
 contract Token {
     mapping(address => uint) public balances;
