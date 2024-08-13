@@ -3,19 +3,26 @@
 <!--
 **GlobalHumanBeing/GlobalHumanBeing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-What Is Global Human Being (GHB)?
+What is Global Human Being (GHB) ?
 
-GHB is a token that aims to produce passive income for our token holders by developing various profit-generating businesses.
+COMMUNITY PROSPERITY PROJECT.
 
-As a token, the Global Human Being team will implement  GHB as a form of payment for all our eCommerce stores that are operated directly by our team. Also,  we will be constantly seeking partnerships to expand the number of online businesses that accept  GHB as payment for goods and services throughout the world.
+GHB crypto project believes in real profits and community development.
 
-WHAT MAKES GHB UNIQUE?
+We are on a mission to make a significant social impact by transferring a wide range of benefits to the community.
 
-Because it is only a prosperity-based project and we have kept 06% of the total supply of tokens that's only will be distributed all over the world and no difference with races of global humans being.
+*** - CHARITY FOR GHB - ***
 
-The GHB token is designed to ensure that owners can also participate in the operation of the project network and keep full service globally for human beings. Because of this, those who hold the GHB have the right to give suggestions and opinions to the management for many coming future development projects for the Human Being of the world.
+GHB’s management decided that we must keep a 15% charity token from the Total Supply of GHB.    GHB’s goal is to raise money in order to help people who are sick or very poor, or who have a disability, so together we all raise money for our beloved world.
 
+*** - EDUCATION FOR GHB - ***
+
+GHB’s goal is to educate every child in the world because every child has the right to go to school and learn, regardless of who they are, where they live, or how much money their family has or not to educate their lovely child so help them.
+
+*** - PROSPERITY FOR GHB - ***
+
+Poverty remains one of the most inflexible barriers, with children from the poorest households almost five times more likely to be out of primary school than those from the richest. It is very harmful to us that more than 29m children are out of school due to lack of money.
 
 Who is the Founder of Global Human Being?
 
-GHB was founded by Muhammad Shahid Memon, who is also one of the co-founders of the global human being project. He was the CEO of Laraib Fertilizer and Chemicals, the company that distributed fertilizers and Chemicals, and his involvement in the industry of forex market since 2005, and he had taught more than 1000 students all over the world in the field of Forex Market.
+GHB was founded by Muhammad Shahid Memon, who is also one of the co-founders of the global human being project, and his involvement in the industry of forex market since 2005.
